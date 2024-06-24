@@ -1,0 +1,18 @@
+/* src/components/LovePage.css */
+.love-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('/public/heart-background.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+  }
+  
+  .message {
+    font-size: 3rem;
+    color: red;
+    text-shadow: 2px 2px 4px #000000;
+  }
+  
